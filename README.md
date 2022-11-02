@@ -13,10 +13,12 @@
 
 <hr>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="247" title="Modern C">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="247" title="Visual Studio Code">
+<a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="247" title="Modern C"></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="247" title="Visual Studio Code"></a>
+<a href="https://www.hive.fi/en/"><img src="https://user-images.githubusercontent.com/78655964/199501404-d12e5b57-526a-4a33-b78a-dfef731c4193.png" width="247" title="Hive Helsinki"></a>
 </p>
 <!--
+
 **teemu-hakala/teemu-hakala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
