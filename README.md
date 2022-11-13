@@ -20,7 +20,10 @@
     - Provides the invaluable skill of personal agenda management  
 - Strict criterion of passing your projects:  
   - The coding style: Norme via norminette  
+    - [Norme](./en.norm.pdf)
+    - [42School/norminette](https://github.com/42School/norminette)
   - Each project subject outlines the task-specific requirements and possible bonuses  
+    - [Hive Curriculum subjects until February 2023](https://github.com/teemu-hakala/42-Hive-Helsinki-2019-Curriculum)
 - The healthy competetive spirit  
   - allows you to lift your peers to higher levels of knowledge  
   - leads into constant improvement  
