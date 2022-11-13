@@ -1,7 +1,33 @@
 ## Hello, w || ld!
 
 ### Today++;
-- My skill palette contains high amounts of **C** authored in **Visual Studio Code** and compiled in **clang** with **GNU Make**.
+- After a year of **Hive Helsinki** studies my skill palette contains high amounts of **C** authored in **Visual Studio Code** and compiled in **clang** with **GNU Make**.
+<details>
+<summary>What is Hive Helsinki all about? (Click for details)</summary>
+
+- Project-based curriculum is  
+  - split into branches of expertise (I chose graphics with raytracing)   
+- Peer-to-peer learning instead of lectures:  
+  - teach and get taught right when you need it the most  
+- Learning to write clean code in the C language, which provides the  
+  - readiness to quickly advance in higher-level languages  
+  - understanding of working close to the raw memory  
+- Growing ready for the working life with  
+  - Top notch soft skills  
+    - Solution-oriented co-operation at Hive makes you a strong team player  
+  - Constant reflection of your coding skills in peer evaluations  
+  - Self-paced schedule  
+    - Provides the invaluable skill of personal agenda management  
+- Strict criterion of passing your projects:  
+  - The coding style: Norme via norminette  
+  - Each project subject outlines the task-specific requirements and possible bonuses  
+- The healthy competetive spirit  
+  - allows you to lift your peers to higher levels of knowledge  
+  - leads into constant improvement  
+- Being an active member of the Hive community:  
+  - The whole is more than the sum of its parts  
+
+</details>
 
 ### Future Goals;
 - Raytracer written in C as the final project for Hive Helsinki.  
